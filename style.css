@@ -53,6 +53,10 @@ Version:        0.1.0
 .home_box3{
   margin-left:10px !important;
 }
+home_box img{
+  max-width:212px !important;
+  float:right;
+}
 .entry-title{
   text-align:left !important;
   margin-left:0 !important;
