@@ -1,10 +1,60 @@
 /*
 Theme Name:     K2 Child
 Theme URI:      http://clearhealthcosts.com/
-Description:    K2 child theme for Jeanne Pinder
-Author:         Joe Flip
 Template:       k2
 Version:        0.1.0
 */
 
 @import url("../k2/style.css");
+
+.content a{
+  color:#3371A3 !important;
+}
+
+#primary-wrapper{
+  width:100%;
+  margin-right:0 !important;
+  display:block;
+}
+#primary{
+  width:97%;
+  margin-right:0 !important;
+  display:block;
+}
+.clearfix{
+  display:block;
+  clear:both;
+  width:100%;
+  margin:0;
+  padding:0;
+}
+#homeboxes{
+}
+.home_box{
+  float:left;
+  width:212px;
+  height:200px;
+  margin-top:0 !important;
+  padding:10px;
+  background:#eeeeee;
+  border-radius:8px;
+  -moz-border-radius:8px;
+  -webkit-border-radius:8px;
+}
+.home_box h3{
+  margin-top:0 !important;
+  padding-top:0 !important;
+}
+.home_box1{
+  margin-right:10px !important;
+}
+.home_box2{
+}
+.home_box3{
+  margin-left:10px !important;
+}
+.entry-title{
+  text-align:left !important;
+  margin-left:0 !important;
+  font-size:20px;
+}
