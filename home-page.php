@@ -6,7 +6,7 @@ Template Name: Home Page
 
 <?php get_header(); ?>
 
-<div class="content">
+<div id="home" class="content">
 
 <div id="primary-wrapper">
 	<div id="primary">
